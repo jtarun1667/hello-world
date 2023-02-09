@@ -33,6 +33,6 @@
 
    <h1> Thankyou, Happy Learning </h1>
 	<h2> Devopslearning.com </h2>
-	<h3> Contact : 9052376376 </h3>
+	<h3> Contact : devops@gmail.com </h3>
   
 </form>
